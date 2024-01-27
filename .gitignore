@@ -1,0 +1,8 @@
+truly*
+zig*
+release*
+*.o
+*.obj
+*.dll
+*.a
+*.out
